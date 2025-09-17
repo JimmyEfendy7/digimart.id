@@ -1,0 +1,6 @@
+2025/09/17-14:25:47.352 145c Reusing MANIFEST C:\PASTI\DIGIPRO-01-08\DIGIPRO\backend\.wwebjs_auth\session-digipro-whatsapp\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/17-14:25:47.357 145c Recovering log #15
+2025/09/17-14:25:47.359 145c Reusing old log C:\PASTI\DIGIPRO-01-08\DIGIPRO\backend\.wwebjs_auth\session-digipro-whatsapp\Default\Local Storage\leveldb/000015.log 
+2025/09/17-14:26:47.378 32c4 Level-0 table #19: started
+2025/09/17-14:26:47.381 32c4 Level-0 table #19: 17708 bytes OK
+2025/09/17-14:26:47.384 32c4 Delete type=0 #15

@@ -1,0 +1,61 @@
+2025/09/17-14:21:32.485 52a4 Reusing MANIFEST C:\PASTI\DIGIPRO-01-08\DIGIPRO\backend\.wwebjs_auth\session-digipro-whatsapp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/17-14:21:32.486 52a4 Recovering log #4710
+2025/09/17-14:21:32.516 52a4 Reusing old log C:\PASTI\DIGIPRO-01-08\DIGIPRO\backend\.wwebjs_auth\session-digipro-whatsapp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004710.log 
+2025/09/17-14:21:33.628 714c Level-0 table #4720: started
+2025/09/17-14:21:33.649 714c Level-0 table #4720: 992493 bytes OK
+2025/09/17-14:21:33.650 714c Delete type=0 #4710
+2025/09/17-14:21:33.651 714c Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at '\x00+\x00\x00\x05' @ 13707350 : 1
+2025/09/17-14:21:33.652 714c Compacting 1@0 + 0@1 files
+2025/09/17-14:21:33.667 714c Generated table #4721@0: 19783 keys, 406653 bytes
+2025/09/17-14:21:33.670 714c Generated table #4722@0: 492 keys, 23397 bytes
+2025/09/17-14:21:33.670 714c Compacted 1@0 + 0@1 files => 430050 bytes
+2025/09/17-14:21:33.671 714c compacted to: files[ 0 2 20 0 0 0 0 ]
+2025/09/17-14:21:33.671 714c Delete type=2 #4720
+2025/09/17-14:21:33.671 714c Manual compaction at level-0 from '\x00+\x00\x00\x05' @ 13707350 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/17-14:21:34.561 52a4 Compacting 1@1 + 10@2 files
+2025/09/17-14:21:34.589 52a4 Generated table #4723@1: 13530 keys, 2157746 bytes
+2025/09/17-14:21:34.621 52a4 Generated table #4724@1: 7411 keys, 2134696 bytes
+2025/09/17-14:21:34.647 52a4 Generated table #4725@1: 5449 keys, 2128349 bytes
+2025/09/17-14:21:34.696 52a4 Generated table #4726@1: 86192 keys, 2229672 bytes
+2025/09/17-14:21:34.749 52a4 Generated table #4727@1: 97340 keys, 2247374 bytes
+2025/09/17-14:21:34.800 52a4 Generated table #4728@1: 97165 keys, 2246387 bytes
+2025/09/17-14:21:34.854 52a4 Generated table #4729@1: 97122 keys, 2246677 bytes
+2025/09/17-14:21:34.905 52a4 Generated table #4730@1: 97026 keys, 2246511 bytes
+2025/09/17-14:21:34.937 52a4 Generated table #4731@1: 59889 keys, 1378200 bytes
+2025/09/17-14:21:34.937 52a4 Compacted 1@1 + 10@2 files => 19015612 bytes
+2025/09/17-14:21:34.938 52a4 compacted to: files[ 0 1 19 0 0 0 0 ]
+2025/09/17-14:21:34.938 52a4 Delete type=2 #4484
+2025/09/17-14:21:34.938 52a4 Delete type=2 #4485
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4486
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4487
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4488
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4489
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4490
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4493
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4694
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4714
+2025/09/17-14:21:34.939 52a4 Delete type=2 #4722
+2025/09/17-14:21:35.258 52a4 Compacting 1@1 + 10@2 files
+2025/09/17-14:21:35.307 52a4 Generated table #4732@1: 73545 keys, 2231679 bytes
+2025/09/17-14:21:35.353 52a4 Generated table #4733@1: 42614 keys, 2210739 bytes
+2025/09/17-14:21:35.384 52a4 Generated table #4734@1: 16527 keys, 2170520 bytes
+2025/09/17-14:21:35.405 52a4 Generated table #4735@1: 1497 keys, 2143224 bytes
+2025/09/17-14:21:35.428 52a4 Generated table #4736@1: 2454 keys, 2150403 bytes
+2025/09/17-14:21:35.457 52a4 Generated table #4737@1: 2422 keys, 2152556 bytes
+2025/09/17-14:21:35.477 52a4 Generated table #4738@1: 1332 keys, 2137495 bytes
+2025/09/17-14:21:35.503 52a4 Generated table #4739@1: 7344 keys, 2160775 bytes
+2025/09/17-14:21:35.552 52a4 Generated table #4740@1: 29026 keys, 2265360 bytes
+2025/09/17-14:21:35.595 52a4 Generated table #4741@1: 25586 keys, 1968654 bytes
+2025/09/17-14:21:35.595 52a4 Compacted 1@1 + 10@2 files => 21591405 bytes
+2025/09/17-14:21:35.596 52a4 compacted to: files[ 0 0 19 0 0 0 0 ]
+2025/09/17-14:21:35.596 52a4 Delete type=2 #4702
+2025/09/17-14:21:35.596 52a4 Delete type=2 #4703
+2025/09/17-14:21:35.596 52a4 Delete type=2 #4704
+2025/09/17-14:21:35.596 52a4 Delete type=2 #4705
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4706
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4707
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4708
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4715
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4716
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4717
+2025/09/17-14:21:35.597 52a4 Delete type=2 #4721
